@@ -1,0 +1,20 @@
+.img1{
+    background-image: url("https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8cHJvZHVjdHxlbnwwfHwwfHw%3D&w=1000&q=80");
+    background-size: cover;
+    height: 220px;
+    border-radius: 10px;
+}
+
+.img2{
+    background-image: url("https://media.istockphoto.com/photos/colorful-sport-footwear-or-shoes-on-red-color-backround-running-for-picture-id1324542716?k=20&m=1324542716&s=170667a&w=0&h=KGXtR1C9VQ_qZElBQOM7ladSdhZgKlxIqRMz1MTjFmw=");
+    background-size: cover;
+    height: 220px;
+    border-radius: 10px;
+}
+
+.img3{
+    background-image: url("https://media.istockphoto.com/photos/studio-shot-of-running-shoe-on-red-background-flat-lay-picture-id1165133357?k=20&m=1165133357&s=170667a&w=0&h=8lZdH4ZoX8VW16HbRKkeU_S5MOVhBLyeNg3bTLhjToA=");
+    background-size: cover;
+    height: 220px;
+    border-radius: 10px;
+}
