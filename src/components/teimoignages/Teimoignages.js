@@ -4,7 +4,7 @@ import "./teimoignages.css"
 export default function Teimoignages() {
   return (
     <div>
-        {/* what poeple say */}
+        {/*  poeple say */}
         <div className="container my-5">
             <div className="row text-center bg-light">
                 <div className="col-md-6 ">
